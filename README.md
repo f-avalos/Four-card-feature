@@ -4,7 +4,7 @@ Este proyecto es una propuesta de solución para uno de los desafios de Frontend
 
 Dentro de este repositorio se muestra una página web en la que se muestran 4 tarjetas informativas con un diseño propuesto, de manera que el contenido se va acoplando según las resoluciones de pantalla a la que está expuesto la página.
 
-## Table of contents
+## Contenidos
 
 - [Descripción](#descripción)
   - [Desafio](#desafio)
@@ -35,7 +35,7 @@ En paralelo, los margenes, paddins y tamaños de fuentes iran aumentando o dismi
 ### Links
 
 
-- Sitio: [-](#)
+- Sitio: [Sección de tarjetas informativas](https://f-avalos.github.io/Four-card-feature/)
 
 ## Proceso
 
@@ -52,4 +52,4 @@ En paralelo, los margenes, paddins y tamaños de fuentes iran aumentando o dismi
 
 Hasta ahora es el desafío mas complicado que he realizado, esto por varios factores como la manera de aumentar o disminuir dinámicamente el tamaño de fuentes, contenedores, etc.
 
-Aprendí a usar de una mejor manera los __Media Queries__ para cambiar propiedades de contenedores en especifico, como lo puede ser el tamaño y distribución de tarjetas y otros detalles. Tambien aprendi a utilizar la propiedad ```TranslateY()``` para mover verticalmente 2 de las 4 tarjetas y así reflejar el diseño propuesto.
+Aprendí a usar de una mejor manera los __Media Queries__ para cambiar propiedades de contenedores en especifico, como lo puede ser el tamaño y distribución de tarjetas y otros detalles. Tambien aprendi a utilizar la propiedad ```transform: TranslateY() ``` para mover verticalmente 2 de las 4 tarjetas y así reflejar el diseño propuesto.
